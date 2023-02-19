@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ru.hogoshi",
+    "module": "Animations",
+    "version": "4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Animations-4.0.jar",
+          "url": "Animations-4.0.jar",
+          "size": 10060,
+          "sha512": "470599215c80e498cbc78b812190a8db1da63002a8ef4ccd24837422aea9612efdcc473ae8496454630b575979ba0cfa5a34b1875ef8ae232f88b4f8b921f8f3",
+          "sha256": "d135ace435e8ac19eb18f41fb8346ae857d0698b777e406b448a1af736432884",
+          "sha1": "7f3c65ae4125077d5b72681562bf4ddd34d9e643",
+          "md5": "4682161bb1ec627351454f9e6d3c3418"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Animations-4.0.jar",
+          "url": "Animations-4.0.jar",
+          "size": 10060,
+          "sha512": "470599215c80e498cbc78b812190a8db1da63002a8ef4ccd24837422aea9612efdcc473ae8496454630b575979ba0cfa5a34b1875ef8ae232f88b4f8b921f8f3",
+          "sha256": "d135ace435e8ac19eb18f41fb8346ae857d0698b777e406b448a1af736432884",
+          "sha1": "7f3c65ae4125077d5b72681562bf4ddd34d9e643",
+          "md5": "4682161bb1ec627351454f9e6d3c3418"
+        }
+      ]
+    }
+  ]
+}
